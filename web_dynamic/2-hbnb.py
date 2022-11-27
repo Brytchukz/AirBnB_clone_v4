@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Flask App that integrates with AirBnB static HTML Template
+Flask App which integrates with AirBnB static HTML Template
 """
 from flask import Flask, render_template, url_for, Markup
 from models import storage
